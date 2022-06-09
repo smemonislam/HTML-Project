@@ -1,0 +1,46 @@
+
+/* Alert Buttons */
+.btn-alert {
+    border-radius: 0;
+    padding: 12px 25px;
+    color: #fff;
+}
+
+.btn-default {
+    background-color: #e7e7e7;
+    color: #000;
+}
+.btn-default:hover {
+    background-color: #ddd;
+}
+
+.btn-blue {
+    background-color: #2196F3;
+}
+.btn-blue:hover {
+    background-color: #0b7dda;
+    color: #fff;
+}
+
+/* Outline Buttons */
+.outline-button .btn {
+    border-radius: 0;
+    padding: 12px 25px;
+}
+
+.btn-outline-blue {
+    border-color: #2196F3;
+    color: #2196F3;
+}
+.btn-outline-blue:hover {
+    background-color: #2196F3;
+    color: #fff;
+}
+
+.btn-outline-default {
+    border-color: #e7e7e7;
+    color: #000;
+}
+.btn-outline-default:hover {
+    background-color: #e7e7e7;
+}
